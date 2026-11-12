@@ -1,0 +1,3 @@
+# Python packages your modules need, one per line, such as:
+# requests-oauthlib==2.0.0
+# git+https://github.com/example/package.git@v1.2.0
